@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.0.6.post1"
+  version: "0.0.7"
   python_check_max: "3.14"
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pytest-mockito/pytest_mockito-${{ version }}.tar.gz
-  sha256: 67e26a69942de4c50001268c779700f8d722384d20385313a88e81b6d23fb71c
+  sha256: 1763527520b2a0c7f25a91e1c2afa56ed44c4637ca163aa1ed65ef3bb67795bc
 
 build:
   number: 0
